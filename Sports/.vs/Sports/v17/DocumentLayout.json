@@ -1,0 +1,1194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|c:\\users\\pc\\desktop\\semos course\\asp.net core mvc\\sports betting app\\sports\\sports\\sports\\models\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|solutionrelative:sports\\models\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC39758B-AC3F-4347-B1D2-4BA44A04C1A3}|UnitTests\\UnitTests.csproj|c:\\users\\pc\\desktop\\semos course\\asp.net core mvc\\sports betting app\\sports\\sports\\unittests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC39758B-AC3F-4347-B1D2-4BA44A04C1A3}|UnitTests\\UnitTests.csproj|solutionrelative:unittests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|c:\\users\\pc\\desktop\\semos course\\asp.net core mvc\\sports betting app\\sports\\sports\\sports\\controllers\\resultscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|solutionrelative:sports\\controllers\\resultscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|c:\\users\\pc\\desktop\\semos course\\asp.net core mvc\\sports betting app\\sports\\sports\\sports\\models\\statisticcalculator\\hockey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|solutionrelative:sports\\models\\statisticcalculator\\hockey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|c:\\users\\pc\\desktop\\semos course\\asp.net core mvc\\sports betting app\\sports\\sports\\sports\\models\\statisticcalculator\\handball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|solutionrelative:sports\\models\\statisticcalculator\\handball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|c:\\users\\pc\\desktop\\semos course\\asp.net core mvc\\sports betting app\\sports\\sports\\sports\\controllers\\statisticscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|solutionrelative:sports\\controllers\\statisticscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|c:\\users\\pc\\desktop\\semos course\\asp.net core mvc\\sports betting app\\sports\\sports\\sports\\controllers\\statistic_typecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|solutionrelative:sports\\controllers\\statistic_typecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|c:\\users\\pc\\desktop\\semos course\\asp.net core mvc\\sports betting app\\sports\\sports\\sports\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|solutionrelative:sports\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|c:\\users\\pc\\desktop\\semos course\\asp.net core mvc\\sports betting app\\sports\\sports\\sports\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|solutionrelative:sports\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|c:\\users\\pc\\desktop\\semos course\\asp.net core mvc\\sports betting app\\sports\\sports\\sports\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|solutionrelative:sports\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|c:\\users\\pc\\desktop\\semos course\\asp.net core mvc\\sports betting app\\sports\\sports\\sports\\views\\statistics\\indexforcompetitions.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|solutionrelative:sports\\views\\statistics\\indexforcompetitions.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|c:\\users\\pc\\desktop\\semos course\\asp.net core mvc\\sports betting app\\sports\\sports\\sports\\models\\statistic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|solutionrelative:sports\\models\\statistic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|c:\\users\\pc\\desktop\\semos course\\asp.net core mvc\\sports betting app\\sports\\sports\\sports\\models\\competition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|solutionrelative:sports\\models\\competition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|c:\\users\\pc\\desktop\\semos course\\asp.net core mvc\\sports betting app\\sports\\sports\\sports\\controllers\\competitionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|solutionrelative:sports\\controllers\\competitionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|c:\\users\\pc\\desktop\\semos course\\asp.net core mvc\\sports betting app\\sports\\sports\\sports\\controllers\\sportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|solutionrelative:sports\\controllers\\sportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|c:\\users\\pc\\desktop\\semos course\\asp.net core mvc\\sports betting app\\sports\\sports\\sports\\views\\sports\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|solutionrelative:sports\\views\\sports\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|c:\\users\\pc\\desktop\\semos course\\asp.net core mvc\\sports betting app\\sports\\sports\\sports\\views\\competitions\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|solutionrelative:sports\\views\\competitions\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|c:\\users\\pc\\desktop\\semos course\\asp.net core mvc\\sports betting app\\sports\\sports\\sports\\views\\competitions\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|solutionrelative:sports\\views\\competitions\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|c:\\users\\pc\\desktop\\semos course\\asp.net core mvc\\sports betting app\\sports\\sports\\sports\\interfaces\\istatisticcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|solutionrelative:sports\\interfaces\\istatisticcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|c:\\users\\pc\\desktop\\semos course\\asp.net core mvc\\sports betting app\\sports\\sports\\sports\\models\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|solutionrelative:sports\\models\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|c:\\users\\pc\\desktop\\semos course\\asp.net core mvc\\sports betting app\\sports\\sports\\sports\\models\\statisticcalculator\\soccer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|solutionrelative:sports\\models\\statisticcalculator\\soccer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|c:\\users\\pc\\desktop\\semos course\\asp.net core mvc\\sports betting app\\sports\\sports\\sports\\models\\statisticcalculator\\basketball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|solutionrelative:sports\\models\\statisticcalculator\\basketball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|c:\\users\\pc\\desktop\\semos course\\asp.net core mvc\\sports betting app\\sports\\sports\\sports\\models\\statisticcalculator\\statisticcalculatorfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|solutionrelative:sports\\models\\statisticcalculator\\statisticcalculatorfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|c:\\users\\pc\\desktop\\semos course\\asp.net core mvc\\sports betting app\\sports\\sports\\sports\\views\\competitions\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|solutionrelative:sports\\views\\competitions\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|c:\\users\\pc\\desktop\\semos course\\asp.net core mvc\\sports betting app\\sports\\sports\\sports\\views\\competitions\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|solutionrelative:sports\\views\\competitions\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|c:\\users\\pc\\desktop\\semos course\\asp.net core mvc\\sports betting app\\sports\\sports\\sports\\models\\statistic_type.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|solutionrelative:sports\\models\\statistic_type.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|c:\\users\\pc\\desktop\\semos course\\asp.net core mvc\\sports betting app\\sports\\sports\\sports\\models\\sport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|solutionrelative:sports\\models\\sport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|c:\\users\\pc\\desktop\\semos course\\asp.net core mvc\\sports betting app\\sports\\sports\\sports\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|solutionrelative:sports\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC39758B-AC3F-4347-B1D2-4BA44A04C1A3}|UnitTests\\UnitTests.csproj|c:\\users\\pc\\desktop\\semos course\\asp.net core mvc\\sports betting app\\sports\\sports\\unittests\\unittests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DC39758B-AC3F-4347-B1D2-4BA44A04C1A3}|UnitTests\\UnitTests.csproj|solutionrelative:unittests\\unittests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|c:\\users\\pc\\desktop\\semos course\\asp.net core mvc\\sports betting app\\sports\\sports\\sports\\models\\statisticcalculator\\volleyball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|solutionrelative:sports\\models\\statisticcalculator\\volleyball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|c:\\users\\pc\\desktop\\semos course\\asp.net core mvc\\sports betting app\\sports\\sports\\sports\\views\\results\\createviewforcompetition.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|solutionrelative:sports\\views\\results\\createviewforcompetition.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|c:\\users\\pc\\desktop\\semos course\\asp.net core mvc\\sports betting app\\sports\\sports\\sports\\controllers\\teamscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|solutionrelative:sports\\controllers\\teamscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|c:\\users\\pc\\desktop\\semos course\\asp.net core mvc\\sports betting app\\sports\\sports\\sports\\views\\results\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|solutionrelative:sports\\views\\results\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|c:\\users\\pc\\desktop\\semos course\\asp.net core mvc\\sports betting app\\sports\\sports\\sports\\views\\results\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|solutionrelative:sports\\views\\results\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|c:\\users\\pc\\desktop\\semos course\\asp.net core mvc\\sports betting app\\sports\\sports\\sports\\views\\results\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|solutionrelative:sports\\views\\results\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|c:\\users\\pc\\desktop\\semos course\\asp.net core mvc\\sports betting app\\sports\\sports\\sports\\views\\competitions\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|solutionrelative:sports\\views\\competitions\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|c:\\users\\pc\\desktop\\semos course\\asp.net core mvc\\sports betting app\\sports\\sports\\sports\\views\\sports\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|solutionrelative:sports\\views\\sports\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|c:\\users\\pc\\desktop\\semos course\\asp.net core mvc\\sports betting app\\sports\\sports\\sports\\views\\sports\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|solutionrelative:sports\\views\\sports\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|c:\\users\\pc\\desktop\\semos course\\asp.net core mvc\\sports betting app\\sports\\sports\\sports\\views\\teams\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|solutionrelative:sports\\views\\teams\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Sports\\Data\\Migrations\\20240913091251_added_back_edit_view_for_result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Sports\\Data\\Migrations\\20240913091251_added_back_edit_view_for_result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|c:\\users\\pc\\desktop\\semos course\\asp.net core mvc\\sports betting app\\sports\\sports\\sports\\views\\statistics\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|solutionrelative:sports\\views\\statistics\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|c:\\users\\pc\\desktop\\semos course\\asp.net core mvc\\sports betting app\\sports\\sports\\sports\\views\\statistic_type\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|solutionrelative:sports\\views\\statistic_type\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|c:\\users\\pc\\desktop\\semos course\\asp.net core mvc\\sports betting app\\sports\\sports\\sports\\data\\migrations\\20240901114030_added_view_for_second_create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|solutionrelative:sports\\data\\migrations\\20240901114030_added_view_for_second_create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|c:\\users\\pc\\desktop\\semos course\\asp.net core mvc\\sports betting app\\sports\\sports\\sports\\wwwroot\\css\\mycss.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|solutionrelative:sports\\wwwroot\\css\\mycss.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|c:\\users\\pc\\desktop\\semos course\\asp.net core mvc\\sports betting app\\sports\\sports\\sports\\views\\statistics\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|solutionrelative:sports\\views\\statistics\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|c:\\users\\pc\\desktop\\semos course\\asp.net core mvc\\sports betting app\\sports\\sports\\sports\\views\\statistics\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|solutionrelative:sports\\views\\statistics\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|c:\\users\\pc\\desktop\\semos course\\asp.net core mvc\\sports betting app\\sports\\sports\\sports\\views\\teams\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|solutionrelative:sports\\views\\teams\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|c:\\users\\pc\\desktop\\semos course\\asp.net core mvc\\sports betting app\\sports\\sports\\sports\\views\\teams\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|solutionrelative:sports\\views\\teams\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|c:\\users\\pc\\desktop\\semos course\\asp.net core mvc\\sports betting app\\sports\\sports\\sports\\views\\statistic_type\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|solutionrelative:sports\\views\\statistic_type\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|c:\\users\\pc\\desktop\\semos course\\asp.net core mvc\\sports betting app\\sports\\sports\\sports\\views\\statistic_type\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|solutionrelative:sports\\views\\statistic_type\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|c:\\users\\pc\\desktop\\semos course\\asp.net core mvc\\sports betting app\\sports\\sports\\sports\\views\\statistic_type\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|solutionrelative:sports\\views\\statistic_type\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|c:\\users\\pc\\desktop\\semos course\\asp.net core mvc\\sports betting app\\sports\\sports\\sports\\views\\sports\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|solutionrelative:sports\\views\\sports\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|c:\\users\\pc\\desktop\\semos course\\asp.net core mvc\\sports betting app\\sports\\sports\\sports\\views\\statistic_type\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|solutionrelative:sports\\views\\statistic_type\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|c:\\users\\pc\\desktop\\semos course\\asp.net core mvc\\sports betting app\\sports\\sports\\sports\\views\\statistics\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|solutionrelative:sports\\views\\statistics\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports\\Sports\\Sports\\Data\\Migrations\\20240904060212_added_competition_identity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pauno\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Data\\Migrations\\20240902184142_added_result_index_view_to_sport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pauno\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Data\\Migrations\\20240831151347_added_result_to_competition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pauno\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Data\\Migrations\\20240831151027_added_result_to_competition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pauno\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Data\\Migrations\\20240831150719_added_competition_to_result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pauno\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Data\\Migrations\\20240831150519_added_competition_to_result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pauno\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Data\\Migrations\\20240831144436_added_nullable_to_competitionId.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pauno\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Data\\Migrations\\20240831144009_added_ability_to_delete_foreign_competitionKey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pauno\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Data\\Migrations\\20240831143221_added_ability_to_delete_competitions_with_foreignKeys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|c:\\users\\pc\\desktop\\semos course\\asp.net core mvc\\sports betting app\\sports\\sports\\sports\\views\\statistics\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|solutionrelative:sports\\views\\statistics\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|c:\\users\\pc\\desktop\\semos course\\asp.net core mvc\\sports betting app\\sports\\sports\\sports\\data\\migrations\\20240829133939_initial_migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|solutionrelative:sports\\data\\migrations\\20240829133939_initial_migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pauno\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Data\\Migrations\\20240830150745_added_competition_to_result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|c:\\users\\pc\\desktop\\semos course\\asp.net core mvc\\sports betting app\\sports\\sports\\sports\\views\\teams\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|solutionrelative:sports\\views\\teams\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|c:\\users\\pc\\desktop\\semos course\\asp.net core mvc\\sports betting app\\sports\\sports\\sports\\data\\migrations\\20240829133904_adjustresultcascadepaths.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|solutionrelative:sports\\data\\migrations\\20240829133904_adjustresultcascadepaths.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|c:\\users\\pc\\desktop\\semos course\\asp.net core mvc\\sports betting app\\sports\\sports\\sports\\views\\teams\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD9A2B06-3059-4157-8471-30E29718F549}|Sports\\Sports.csproj|solutionrelative:sports\\views\\teams\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pauno\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Data\\Migrations\\20240829132816_initial_migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pauno\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Data\\Migrations\\20240829132106_FixCascadePaths.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pauno\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Data\\Migrations\\20240829131709_added_foreign_key_for_sport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pauno\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Data\\Migrations\\20240829130105_removed_connection_between_sport_and_competition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Sports\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Sports\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Sports\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Sports\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-29T10:02:53.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Statistic_TypeController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Sports\\Controllers\\Statistic_TypeController.cs",
+              "RelativeDocumentMoniker": "Sports\\Controllers\\Statistic_TypeController.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Sports\\Controllers\\Statistic_TypeController.cs",
+              "RelativeToolTip": "Sports\\Controllers\\Statistic_TypeController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T13:32:55.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StatisticsController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Sports\\Controllers\\StatisticsController.cs",
+              "RelativeDocumentMoniker": "Sports\\Controllers\\StatisticsController.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Sports\\Controllers\\StatisticsController.cs",
+              "RelativeToolTip": "Sports\\Controllers\\StatisticsController.cs",
+              "ViewState": "AQIAANwAAAAAAAAAAADwv1gAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T13:30:45.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ResultsController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Sports\\Controllers\\ResultsController.cs",
+              "RelativeDocumentMoniker": "Sports\\Controllers\\ResultsController.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Sports\\Controllers\\ResultsController.cs",
+              "RelativeToolTip": "Sports\\Controllers\\ResultsController.cs",
+              "ViewState": "AQIAAI0AAAAAAAAAAAAqwMQBAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T13:34:24.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Handball.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Sports\\Models\\StatisticCalculator\\Handball.cs",
+              "RelativeDocumentMoniker": "Sports\\Models\\StatisticCalculator\\Handball.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Sports\\Models\\StatisticCalculator\\Handball.cs",
+              "RelativeToolTip": "Sports\\Models\\StatisticCalculator\\Handball.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T13:23:09.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Hockey.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Sports\\Models\\StatisticCalculator\\Hockey.cs",
+              "RelativeDocumentMoniker": "Sports\\Models\\StatisticCalculator\\Hockey.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Sports\\Models\\StatisticCalculator\\Hockey.cs",
+              "RelativeToolTip": "Sports\\Models\\StatisticCalculator\\Hockey.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T21:16:45.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\UnitTests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "UnitTests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\UnitTests\\UnitTest1.cs",
+              "RelativeToolTip": "UnitTests\\UnitTest1.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAgwDUAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T18:06:19.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Result.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Sports\\Models\\Result.cs",
+              "RelativeDocumentMoniker": "Sports\\Models\\Result.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Sports\\Models\\Result.cs",
+              "RelativeToolTip": "Sports\\Models\\Result.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAgwA4AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T12:42:04.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Sports\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Sports\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Sports\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Sports\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-29T10:02:33.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Sports\\Program.cs",
+              "RelativeDocumentMoniker": "Sports\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Sports\\Program.cs",
+              "RelativeToolTip": "Sports\\Program.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAQwFcAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T20:02:08.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IndexForCompetitions.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Sports\\Views\\Statistics\\IndexForCompetitions.cshtml",
+              "RelativeDocumentMoniker": "Sports\\Views\\Statistics\\IndexForCompetitions.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Sports\\Views\\Statistics\\IndexForCompetitions.cshtml",
+              "RelativeToolTip": "Sports\\Views\\Statistics\\IndexForCompetitions.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-29T14:03:28.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Statistic.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Sports\\Models\\Statistic.cs",
+              "RelativeDocumentMoniker": "Sports\\Models\\Statistic.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Sports\\Models\\Statistic.cs",
+              "RelativeToolTip": "Sports\\Models\\Statistic.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwBMAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T12:40:21.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SportsController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Sports\\Controllers\\SportsController.cs",
+              "RelativeDocumentMoniker": "Sports\\Controllers\\SportsController.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Sports\\Controllers\\SportsController.cs",
+              "RelativeToolTip": "Sports\\Controllers\\SportsController.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAkwEAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T13:24:51.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Sports\\Views\\Sports\\Index.cshtml",
+              "RelativeDocumentMoniker": "Sports\\Views\\Sports\\Index.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Sports\\Views\\Sports\\Index.cshtml",
+              "RelativeToolTip": "Sports\\Views\\Sports\\Index.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-29T13:25:10.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CompetitionsController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Sports\\Controllers\\CompetitionsController.cs",
+              "RelativeDocumentMoniker": "Sports\\Controllers\\CompetitionsController.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Sports\\Controllers\\CompetitionsController.cs",
+              "RelativeToolTip": "Sports\\Controllers\\CompetitionsController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwEsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T13:26:24.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Sports\\Views\\Competitions\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Sports\\Views\\Competitions\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Sports\\Views\\Competitions\\Delete.cshtml",
+              "RelativeToolTip": "Sports\\Views\\Competitions\\Delete.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-29T13:45:34.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Sports\\Views\\Competitions\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Sports\\Views\\Competitions\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Sports\\Views\\Competitions\\Edit.cshtml",
+              "RelativeToolTip": "Sports\\Views\\Competitions\\Edit.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABcAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-02T20:37:56.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Competition.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Sports\\Models\\Competition.cs",
+              "RelativeDocumentMoniker": "Sports\\Models\\Competition.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Sports\\Models\\Competition.cs",
+              "RelativeToolTip": "Sports\\Models\\Competition.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T12:38:31.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IStatisticCalculator.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Sports\\Interfaces\\IStatisticCalculator.cs",
+              "RelativeDocumentMoniker": "Sports\\Interfaces\\IStatisticCalculator.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Sports\\Interfaces\\IStatisticCalculator.cs",
+              "RelativeToolTip": "Sports\\Interfaces\\IStatisticCalculator.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAzwBsAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T14:18:25.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Team.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Sports\\Models\\Team.cs",
+              "RelativeDocumentMoniker": "Sports\\Models\\Team.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Sports\\Models\\Team.cs",
+              "RelativeToolTip": "Sports\\Models\\Team.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwBEAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T12:39:20.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Soccer.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Sports\\Models\\StatisticCalculator\\Soccer.cs",
+              "RelativeDocumentMoniker": "Sports\\Models\\StatisticCalculator\\Soccer.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Sports\\Models\\StatisticCalculator\\Soccer.cs",
+              "RelativeToolTip": "Sports\\Models\\StatisticCalculator\\Soccer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T20:38:33.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Basketball.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Sports\\Models\\StatisticCalculator\\Basketball.cs",
+              "RelativeDocumentMoniker": "Sports\\Models\\StatisticCalculator\\Basketball.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Sports\\Models\\StatisticCalculator\\Basketball.cs",
+              "RelativeToolTip": "Sports\\Models\\StatisticCalculator\\Basketball.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwEgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T09:31:53.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "StatisticCalculatorFactory.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Sports\\Models\\StatisticCalculator\\StatisticCalculatorFactory.cs",
+              "RelativeDocumentMoniker": "Sports\\Models\\StatisticCalculator\\StatisticCalculatorFactory.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Sports\\Models\\StatisticCalculator\\StatisticCalculatorFactory.cs",
+              "RelativeToolTip": "Sports\\Models\\StatisticCalculator\\StatisticCalculatorFactory.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwA8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T14:31:17.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Sports\\Views\\Competitions\\Index.cshtml",
+              "RelativeDocumentMoniker": "Sports\\Views\\Competitions\\Index.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Sports\\Views\\Competitions\\Index.cshtml",
+              "RelativeToolTip": "Sports\\Views\\Competitions\\Index.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACwAAACMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-29T13:27:08.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Sports\\Views\\Competitions\\Create.cshtml",
+              "RelativeDocumentMoniker": "Sports\\Views\\Competitions\\Create.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Sports\\Views\\Competitions\\Create.cshtml",
+              "RelativeToolTip": "Sports\\Views\\Competitions\\Create.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-29T13:27:42.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Statistic_Type.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Sports\\Models\\Statistic_Type.cs",
+              "RelativeDocumentMoniker": "Sports\\Models\\Statistic_Type.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Sports\\Models\\Statistic_Type.cs",
+              "RelativeToolTip": "Sports\\Models\\Statistic_Type.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T12:41:29.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Sports\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Sports\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Sports\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Sports\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T13:04:37.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Sport.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Sports\\Models\\Sport.cs",
+              "RelativeDocumentMoniker": "Sports\\Models\\Sport.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Sports\\Models\\Sport.cs",
+              "RelativeToolTip": "Sports\\Models\\Sport.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T12:37:46.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "UnitTests.csproj",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\UnitTests\\UnitTests.csproj",
+              "RelativeDocumentMoniker": "UnitTests\\UnitTests.csproj",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\UnitTests\\UnitTests.csproj",
+              "RelativeToolTip": "UnitTests\\UnitTests.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-10T18:08:37.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Volleyball.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Sports\\Models\\StatisticCalculator\\Volleyball.cs",
+              "RelativeDocumentMoniker": "Sports\\Models\\StatisticCalculator\\Volleyball.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Sports\\Models\\StatisticCalculator\\Volleyball.cs",
+              "RelativeToolTip": "Sports\\Models\\StatisticCalculator\\Volleyball.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T20:37:13.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CreateViewForCompetition.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Sports\\Views\\Results\\CreateViewForCompetition.cshtml",
+              "RelativeDocumentMoniker": "Sports\\Views\\Results\\CreateViewForCompetition.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Sports\\Views\\Results\\CreateViewForCompetition.cshtml",
+              "RelativeToolTip": "Sports\\Views\\Results\\CreateViewForCompetition.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-30T20:09:51.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "TeamsController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Sports\\Controllers\\TeamsController.cs",
+              "RelativeDocumentMoniker": "Sports\\Controllers\\TeamsController.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Sports\\Controllers\\TeamsController.cs",
+              "RelativeToolTip": "Sports\\Controllers\\TeamsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAKkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T13:29:19.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Sports\\Views\\Results\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Sports\\Views\\Results\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Sports\\Views\\Results\\Delete.cshtml",
+              "RelativeToolTip": "Sports\\Views\\Results\\Delete.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACoAAABiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-29T14:32:58.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Sports\\Views\\Results\\Index.cshtml",
+              "RelativeDocumentMoniker": "Sports\\Views\\Results\\Index.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Sports\\Views\\Results\\Index.cshtml",
+              "RelativeToolTip": "Sports\\Views\\Results\\Index.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAACwAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-29T13:34:37.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Sports\\Views\\Results\\Create.cshtml",
+              "RelativeDocumentMoniker": "Sports\\Views\\Results\\Create.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Sports\\Views\\Results\\Create.cshtml",
+              "RelativeToolTip": "Sports\\Views\\Results\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-29T13:35:07.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Sports\\Views\\Competitions\\Details.cshtml",
+              "RelativeDocumentMoniker": "Sports\\Views\\Competitions\\Details.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Sports\\Views\\Competitions\\Details.cshtml",
+              "RelativeToolTip": "Sports\\Views\\Competitions\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-29T13:45:40.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Sports\\Views\\Sports\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Sports\\Views\\Sports\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Sports\\Views\\Sports\\Edit.cshtml",
+              "RelativeToolTip": "Sports\\Views\\Sports\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T21:25:32.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Sports\\Views\\Sports\\Create.cshtml",
+              "RelativeDocumentMoniker": "Sports\\Views\\Sports\\Create.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Sports\\Views\\Sports\\Create.cshtml",
+              "RelativeToolTip": "Sports\\Views\\Sports\\Create.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-29T13:25:35.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Sports\\Views\\Teams\\Index.cshtml",
+              "RelativeDocumentMoniker": "Sports\\Views\\Teams\\Index.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Sports\\Views\\Teams\\Index.cshtml",
+              "RelativeToolTip": "Sports\\Views\\Teams\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-29T13:29:36.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Sports\\Views\\Statistics\\Index.cshtml",
+              "RelativeDocumentMoniker": "Sports\\Views\\Statistics\\Index.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Sports\\Views\\Statistics\\Index.cshtml",
+              "RelativeToolTip": "Sports\\Views\\Statistics\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-29T13:31:21.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "20240913091251_added_back_edit_view_for_result.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Sports\\Data\\Migrations\\20240913091251_added_back_edit_view_for_result.cs",
+              "RelativeDocumentMoniker": "Sports\\Data\\Migrations\\20240913091251_added_back_edit_view_for_result.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Sports\\Data\\Migrations\\20240913091251_added_back_edit_view_for_result.cs",
+              "RelativeToolTip": "Sports\\Data\\Migrations\\20240913091251_added_back_edit_view_for_result.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T09:12:51.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Sports\\Views\\Statistic_Type\\Index.cshtml",
+              "RelativeDocumentMoniker": "Sports\\Views\\Statistic_Type\\Index.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Sports\\Views\\Statistic_Type\\Index.cshtml",
+              "RelativeToolTip": "Sports\\Views\\Statistic_Type\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-29T13:33:07.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "20240901114030_added_view_for_second_create.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Sports\\Data\\Migrations\\20240901114030_added_view_for_second_create.cs",
+              "RelativeDocumentMoniker": "Sports\\Data\\Migrations\\20240901114030_added_view_for_second_create.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Sports\\Data\\Migrations\\20240901114030_added_view_for_second_create.cs",
+              "RelativeToolTip": "Sports\\Data\\Migrations\\20240901114030_added_view_for_second_create.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T11:40:30.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "myCss.css",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Sports\\wwwroot\\css\\myCss.css",
+              "RelativeDocumentMoniker": "Sports\\wwwroot\\css\\myCss.css",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Sports\\wwwroot\\css\\myCss.css",
+              "RelativeToolTip": "Sports\\wwwroot\\css\\myCss.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-09T21:17:48.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Sports\\Views\\Teams\\Create.cshtml",
+              "RelativeDocumentMoniker": "Sports\\Views\\Teams\\Create.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Sports\\Views\\Teams\\Create.cshtml",
+              "RelativeToolTip": "Sports\\Views\\Teams\\Create.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACEAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-29T13:30:03.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Sports\\Views\\Statistics\\Create.cshtml",
+              "RelativeDocumentMoniker": "Sports\\Views\\Statistics\\Create.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Sports\\Views\\Statistics\\Create.cshtml",
+              "RelativeToolTip": "Sports\\Views\\Statistics\\Create.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABcAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-29T13:31:51.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Sports\\Views\\Statistic_Type\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Sports\\Views\\Statistic_Type\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Sports\\Views\\Statistic_Type\\Edit.cshtml",
+              "RelativeToolTip": "Sports\\Views\\Statistic_Type\\Edit.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABoAAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-05T06:23:11.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Sports\\Views\\Statistic_Type\\Create.cshtml",
+              "RelativeDocumentMoniker": "Sports\\Views\\Statistic_Type\\Create.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Sports\\Views\\Statistic_Type\\Create.cshtml",
+              "RelativeToolTip": "Sports\\Views\\Statistic_Type\\Create.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABkAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-29T13:33:42.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Sports\\Views\\Statistic_Type\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Sports\\Views\\Statistic_Type\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Sports\\Views\\Statistic_Type\\Delete.cshtml",
+              "RelativeToolTip": "Sports\\Views\\Statistic_Type\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-05T06:23:02.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Sports\\Views\\Teams\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Sports\\Views\\Teams\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Sports\\Views\\Teams\\Edit.cshtml",
+              "RelativeToolTip": "Sports\\Views\\Teams\\Edit.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACQAAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T21:27:56.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Sports\\Views\\Statistics\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Sports\\Views\\Statistics\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Sports\\Views\\Statistics\\Edit.cshtml",
+              "RelativeToolTip": "Sports\\Views\\Statistics\\Edit.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACQAAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T21:27:39.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Sports\\Views\\Statistic_Type\\Details.cshtml",
+              "RelativeDocumentMoniker": "Sports\\Views\\Statistic_Type\\Details.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Sports\\Views\\Statistic_Type\\Details.cshtml",
+              "RelativeToolTip": "Sports\\Views\\Statistic_Type\\Details.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-05T06:22:15.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Sports\\Views\\Sports\\Details.cshtml",
+              "RelativeDocumentMoniker": "Sports\\Views\\Sports\\Details.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Sports\\Views\\Sports\\Details.cshtml",
+              "RelativeToolTip": "Sports\\Views\\Sports\\Details.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-07T16:21:31.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Sports\\Views\\Statistics\\Details.cshtml",
+              "RelativeDocumentMoniker": "Sports\\Views\\Statistics\\Details.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Sports\\Views\\Statistics\\Details.cshtml",
+              "RelativeToolTip": "Sports\\Views\\Statistics\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-29T13:53:50.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "20240904060212_added_competition_identity.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports\\Sports\\Sports\\Data\\Migrations\\20240904060212_added_competition_identity.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Sports\\Sports\\Sports\\Data\\Migrations\\20240904060212_added_competition_identity.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports\\Sports\\Sports\\Data\\Migrations\\20240904060212_added_competition_identity.cs",
+              "RelativeToolTip": "..\\..\\..\\Sports\\Sports\\Sports\\Data\\Migrations\\20240904060212_added_competition_identity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T06:02:12.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "20240902184142_added_result_index_view_to_sport.cs",
+              "DocumentMoniker": "C:\\Users\\pauno\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Data\\Migrations\\20240902184142_added_result_index_view_to_sport.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\pauno\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Data\\Migrations\\20240902184142_added_result_index_view_to_sport.cs",
+              "ToolTip": "C:\\Users\\pauno\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Data\\Migrations\\20240902184142_added_result_index_view_to_sport.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\pauno\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Data\\Migrations\\20240902184142_added_result_index_view_to_sport.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T18:41:42.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "20240831151347_added_result_to_competition.cs",
+              "DocumentMoniker": "C:\\Users\\pauno\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Data\\Migrations\\20240831151347_added_result_to_competition.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\pauno\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Data\\Migrations\\20240831151347_added_result_to_competition.cs",
+              "ToolTip": "C:\\Users\\pauno\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Data\\Migrations\\20240831151347_added_result_to_competition.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\pauno\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Data\\Migrations\\20240831151347_added_result_to_competition.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T15:13:47.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "20240831151027_added_result_to_competition.cs",
+              "DocumentMoniker": "C:\\Users\\pauno\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Data\\Migrations\\20240831151027_added_result_to_competition.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\pauno\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Data\\Migrations\\20240831151027_added_result_to_competition.cs",
+              "ToolTip": "C:\\Users\\pauno\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Data\\Migrations\\20240831151027_added_result_to_competition.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\pauno\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Data\\Migrations\\20240831151027_added_result_to_competition.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T15:10:28.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "20240831150719_added_competition_to_result.cs",
+              "DocumentMoniker": "C:\\Users\\pauno\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Data\\Migrations\\20240831150719_added_competition_to_result.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\pauno\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Data\\Migrations\\20240831150719_added_competition_to_result.cs",
+              "ToolTip": "C:\\Users\\pauno\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Data\\Migrations\\20240831150719_added_competition_to_result.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\pauno\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Data\\Migrations\\20240831150719_added_competition_to_result.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T15:07:19.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "20240831150519_added_competition_to_result.cs",
+              "DocumentMoniker": "C:\\Users\\pauno\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Data\\Migrations\\20240831150519_added_competition_to_result.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\pauno\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Data\\Migrations\\20240831150519_added_competition_to_result.cs",
+              "ToolTip": "C:\\Users\\pauno\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Data\\Migrations\\20240831150519_added_competition_to_result.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\pauno\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Data\\Migrations\\20240831150519_added_competition_to_result.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T15:05:19.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "20240831144436_added_nullable_to_competitionId.cs",
+              "DocumentMoniker": "C:\\Users\\pauno\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Data\\Migrations\\20240831144436_added_nullable_to_competitionId.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\pauno\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Data\\Migrations\\20240831144436_added_nullable_to_competitionId.cs",
+              "ToolTip": "C:\\Users\\pauno\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Data\\Migrations\\20240831144436_added_nullable_to_competitionId.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\pauno\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Data\\Migrations\\20240831144436_added_nullable_to_competitionId.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T14:44:36.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "20240831144009_added_ability_to_delete_foreign_competitionKey.cs",
+              "DocumentMoniker": "C:\\Users\\pauno\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Data\\Migrations\\20240831144009_added_ability_to_delete_foreign_competitionKey.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\pauno\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Data\\Migrations\\20240831144009_added_ability_to_delete_foreign_competitionKey.cs",
+              "ToolTip": "C:\\Users\\pauno\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Data\\Migrations\\20240831144009_added_ability_to_delete_foreign_competitionKey.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\pauno\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Data\\Migrations\\20240831144009_added_ability_to_delete_foreign_competitionKey.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T14:40:10.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "20240831143221_added_ability_to_delete_competitions_with_foreignKeys.cs",
+              "DocumentMoniker": "C:\\Users\\pauno\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Data\\Migrations\\20240831143221_added_ability_to_delete_competitions_with_foreignKeys.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\pauno\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Data\\Migrations\\20240831143221_added_ability_to_delete_competitions_with_foreignKeys.cs",
+              "ToolTip": "C:\\Users\\pauno\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Data\\Migrations\\20240831143221_added_ability_to_delete_competitions_with_foreignKeys.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\pauno\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Data\\Migrations\\20240831143221_added_ability_to_delete_competitions_with_foreignKeys.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T14:32:22.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Sports\\Views\\Statistics\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Sports\\Views\\Statistics\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Sports\\Views\\Statistics\\Delete.cshtml",
+              "RelativeToolTip": "Sports\\Views\\Statistics\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-29T13:54:05.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "20240829133939_initial_migration.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Sports\\Data\\Migrations\\20240829133939_initial_migration.cs",
+              "RelativeDocumentMoniker": "Sports\\Data\\Migrations\\20240829133939_initial_migration.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Sports\\Data\\Migrations\\20240829133939_initial_migration.cs",
+              "RelativeToolTip": "Sports\\Data\\Migrations\\20240829133939_initial_migration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T13:39:39.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "20240830150745_added_competition_to_result.cs",
+              "DocumentMoniker": "C:\\Users\\pauno\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Data\\Migrations\\20240830150745_added_competition_to_result.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\pauno\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Data\\Migrations\\20240830150745_added_competition_to_result.cs",
+              "ToolTip": "C:\\Users\\pauno\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Data\\Migrations\\20240830150745_added_competition_to_result.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\pauno\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Data\\Migrations\\20240830150745_added_competition_to_result.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T15:07:45.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Sports\\Views\\Teams\\Details.cshtml",
+              "RelativeDocumentMoniker": "Sports\\Views\\Teams\\Details.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Sports\\Views\\Teams\\Details.cshtml",
+              "RelativeToolTip": "Sports\\Views\\Teams\\Details.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-29T13:48:17.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "20240829133904_AdjustResultCascadePaths.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Sports\\Data\\Migrations\\20240829133904_AdjustResultCascadePaths.cs",
+              "RelativeDocumentMoniker": "Sports\\Data\\Migrations\\20240829133904_AdjustResultCascadePaths.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Sports\\Data\\Migrations\\20240829133904_AdjustResultCascadePaths.cs",
+              "RelativeToolTip": "Sports\\Data\\Migrations\\20240829133904_AdjustResultCascadePaths.cs",
+              "ViewState": "AgIAANIAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T13:39:04.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Sports\\Views\\Teams\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Sports\\Views\\Teams\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Sports\\Views\\Teams\\Delete.cshtml",
+              "RelativeToolTip": "Sports\\Views\\Teams\\Delete.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACMAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-29T13:48:04.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "20240829132816_initial_migration.cs",
+              "DocumentMoniker": "C:\\Users\\pauno\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Data\\Migrations\\20240829132816_initial_migration.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\pauno\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Data\\Migrations\\20240829132816_initial_migration.cs",
+              "ToolTip": "C:\\Users\\pauno\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Data\\Migrations\\20240829132816_initial_migration.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\pauno\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Data\\Migrations\\20240829132816_initial_migration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T13:28:16.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "20240829132106_FixCascadePaths.cs",
+              "DocumentMoniker": "C:\\Users\\pauno\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Data\\Migrations\\20240829132106_FixCascadePaths.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\pauno\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Data\\Migrations\\20240829132106_FixCascadePaths.cs",
+              "ToolTip": "C:\\Users\\pauno\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Data\\Migrations\\20240829132106_FixCascadePaths.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\pauno\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Data\\Migrations\\20240829132106_FixCascadePaths.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T13:21:06.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "20240829131709_added_foreign_key_for_sport.cs",
+              "DocumentMoniker": "C:\\Users\\pauno\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Data\\Migrations\\20240829131709_added_foreign_key_for_sport.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\pauno\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Data\\Migrations\\20240829131709_added_foreign_key_for_sport.cs",
+              "ToolTip": "C:\\Users\\pauno\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Data\\Migrations\\20240829131709_added_foreign_key_for_sport.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\pauno\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Data\\Migrations\\20240829131709_added_foreign_key_for_sport.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T13:17:10.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "20240829130105_removed_connection_between_sport_and_competition.cs",
+              "DocumentMoniker": "C:\\Users\\pauno\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Data\\Migrations\\20240829130105_removed_connection_between_sport_and_competition.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\pauno\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Data\\Migrations\\20240829130105_removed_connection_between_sport_and_competition.cs",
+              "ToolTip": "C:\\Users\\pauno\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Data\\Migrations\\20240829130105_removed_connection_between_sport_and_competition.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\pauno\\Desktop\\Semos Course\\ASP.NET Core MVC\\Sports betting app\\Sports\\Sports\\Data\\Migrations\\20240829130105_removed_connection_between_sport_and_competition.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T13:01:05.446Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

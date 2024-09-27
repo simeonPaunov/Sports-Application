@@ -1,0 +1,53 @@
+﻿@model IEnumerable<Sports.Models.Result>
+
+@{
+    ViewData["Title"] = "Result";
+}
+
+<h1>Result</h1>
+
+<p>
+    <a asp-action="Create" asp-route-id1="@ViewBag.CompetitionId" asp-route-id2="@ViewBag.SportId" class="btn btn-primary">Add New</a>
+</p>
+<table class="table table-hover">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Team1)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Team2)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Team1Result)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Team2Result)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Team1.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Team2.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Team1Result)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Team2Result)
+            </td>
+            <td>
+                <a asp-action="Delete" asp-route-id1="@item.Id" asp-route-id2="@ViewBag.CompetitionId" asp-route-id3="@ViewBag.SportId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+
+<a asp-area="" asp-controller="Competitions" asp-action="Index" asp-route-id="@ViewBag.SportId">Back To List</a>
